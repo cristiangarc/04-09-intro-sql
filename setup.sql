@@ -1,1 +1,1 @@
-CREATE DATABASE students;
+CREATE DATABASE school;
